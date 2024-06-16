@@ -22,7 +22,7 @@ class Config(object):
 
     # other configs
     BOT_UPTIME = time.time()
-    START_PIC = os.environ.get("START_PIC", "https://telegra.ph/file/56d52ef4d9d395f6e72ca.jpg")
+    START_PIC = os.environ.get("START_PIC", "https://telegra.ph/file/e87feb5cf9c947260dff4.jpg")
     ADMIN = [int(admin) if id_pattern.search(
         admin) else admin for admin in os.environ.get('ADMIN', "6584789596, 5702598840, 6154972031").split()]  # ⚠️ Required
     
