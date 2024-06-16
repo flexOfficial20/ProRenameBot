@@ -47,8 +47,8 @@ Tʜɪs Bᴏᴛ Aʟꜱᴏ Sᴜᴘᴘᴏʀᴛs Cᴜsᴛᴏᴍ Tʜᴜᴍʙɴᴀɪʟ
 """
 
     ABOUT_TXT = """<b>╭───────────⍟
-<b>• ᴍy ɴᴀᴍᴇ :</b> {}
-<b>• ᴘʀᴏɢʀᴀᴍᴇʀ :</b> <a href=https://t.me/FLEXDUB_OFFICIAL>ғʟᴇx</a>
+<b>• ᴍy ɴᴀᴍᴇ :</b> </b>{}<b>
+<b>• ᴘʀᴏɢʀᴀᴍᴇʀ :</b> <a href=https://t.me/FLEXDUB_OFFICIAL><b>ғʟᴇx</b></a>
 <b>• ɴᴇᴛᴡᴏʀᴋ :</b> <a href=https://t.me/emxes_network><b>ᴇᴍxᴇs ɴᴇᴛᴡᴏʀᴋ</b></a> 
 <b>• 𝟸ɴᴅ ɴᴇᴛᴡᴏʀᴋ :</b> <a href=https://t.me/KAMUI_NETWORK><b>ᴋᴀᴍᴜɪ ɴᴇᴛᴡᴏʀᴋ</b></a>
 <b>• ᴏɴɢᴏɪɴɢ ᴀɴɪᴍᴇ :</b> <a href=https://t.me/Ongoing_Anime_Barlow><b>ᴏɴɢᴏɪɴ ᴀɴɪᴍᴇ</b></a>
