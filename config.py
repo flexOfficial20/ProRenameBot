@@ -47,38 +47,38 @@ Tʜɪs Bᴏᴛ Aʟꜱᴏ Sᴜᴘᴘᴏʀᴛs Cᴜsᴛᴏᴍ Tʜᴜᴍʙɴᴀɪʟ
 """
 
     ABOUT_TXT = """<b>╭───────────⍟
-• ᴍy ɴᴀᴍᴇ : {}
-• ᴘʀᴏɢʀᴀᴍᴇʀ : <a href=https://t.me/FLEXDUB_OFFICIAL>ғʟᴇx</a>
-• ɴᴇᴛᴡᴏʀᴋ : <a href=https://t.me/emxes_network>ᴇᴍxᴇs ɴᴇᴛᴡᴏʀᴋ</a> 
-• 𝟸ɴᴅ ɴᴇᴛᴡᴏʀᴋ : <a href=https://t.me/KAMUI_NETWORK>ᴋᴀᴍᴜɪ ɴᴇᴛᴡᴏʀᴋ</a>
-• ᴏɴɢᴏɪɴɢ ᴀɴɪᴍᴇ : <a href=https://t.me/Ongoing_Anime_Barlow>ᴏɴɢᴏɪɴ ᴀɴɪᴍᴇ</a>
-• ᴀɴɪᴍᴇ: <a href=https://t.me/ANIME_BARLOW>ᴀɴɪᴍᴇ ʙᴀʀʟᴏᴡ</a>
-• ᴄʜᴀᴛ ɢʀᴏᴜᴘ: <a href=https://t.me/ANIME_IMMORTAL>ᴀɴɪᴍᴇ ᴄʜᴀᴛ ɢ</a>
-• ᴍʏ owner: <a href=https://t.me/FLEXDUB_official>FleX</a>
+<b>• ᴍy ɴᴀᴍᴇ :</b> {}
+<b>• ᴘʀᴏɢʀᴀᴍᴇʀ :</b> <a href=https://t.me/FLEXDUB_OFFICIAL>ғʟᴇx</a>
+<b>• ɴᴇᴛᴡᴏʀᴋ :</b> <a href=https://t.me/emxes_network><b>ᴇᴍxᴇs ɴᴇᴛᴡᴏʀᴋ</b></a> 
+<b>• 𝟸ɴᴅ ɴᴇᴛᴡᴏʀᴋ :</b> <a href=https://t.me/KAMUI_NETWORK><b>ᴋᴀᴍᴜɪ ɴᴇᴛᴡᴏʀᴋ</b></a>
+<b>• ᴏɴɢᴏɪɴɢ ᴀɴɪᴍᴇ :</b> <a href=https://t.me/Ongoing_Anime_Barlow><b>ᴏɴɢᴏɪɴ ᴀɴɪᴍᴇ</b></a>
+<b>• ᴀɴɪᴍᴇ :</b> <a href=https://t.me/ANIME_BARLOW><b>ᴀɴɪᴍᴇ ʙᴀʀʟᴏᴡ</b></a>
+<b>• ᴄʜᴀᴛ ɢʀᴏᴜᴘ :</b> <a href=https://t.me/ANIME_IMMORTAL><b>ᴀɴɪᴍᴇ ᴄʜᴀᴛ ɢ</b></a>
+<b>• ᴍʏ ᴏᴡɴᴇʀ :</b> <a href=https://t.me/FLEXDUB_official><b>ғʟᴇx</b></a>
 ╰───────────────⍟ """
 
     HELP_TXT = """
 🌌 <b><u>Hᴏᴡ Tᴏ Sᴇᴛ Tʜᴜᴍʙɴɪʟᴇ</u></b>
   
-<b>•></b> /start ᴛʜᴇ ʙᴏᴛ ᴀɴᴅ sᴇɴᴅ ᴀɴʏ ᴘʜᴏᴛᴏ ᴛᴏ ᴀᴜᴛᴏᴍᴀᴛɪᴄᴀʟʟʏ sᴇᴛ ᴛʜᴜᴍʙɴɪʟᴇ.
-<b>•></b> /del_thumb ᴜꜱᴇ ᴛʜɪꜱ ᴄᴏᴍᴍᴀɴᴅ ᴛᴏ ᴅᴇʟᴇᴛᴇ ʏᴏᴜʀ ᴏʟᴅ ᴛʜᴜᴍʙɴɪʟᴇ.
-<b>•></b> /view_thumb ᴜꜱᴇ ᴛʜɪꜱ ᴄᴏᴍᴍᴀɴᴅ ᴛᴏ ᴠɪᴇᴡ ʏᴏᴜʀ ᴄᴜʀʀᴇɴᴛ ᴛʜᴜᴍʙɴɪʟᴇ.
+<b>•></b> /start <b>ᴛʜᴇ ʙᴏᴛ ᴀɴᴅ sᴇɴᴅ ᴀɴʏ ᴘʜᴏᴛᴏ ᴛᴏ ᴀᴜᴛᴏᴍᴀᴛɪᴄᴀʟʟʏ sᴇᴛ ᴛʜᴜᴍʙɴɪʟᴇ.</b>
+<b>•></b> /del_thumb <b>ᴜꜱᴇ ᴛʜɪꜱ ᴄᴏᴍᴍᴀɴᴅ ᴛᴏ ᴅᴇʟᴇᴛᴇ ʏᴏᴜʀ ᴏʟᴅ ᴛʜᴜᴍʙɴɪʟᴇ.</b>
+<b>•></b> /view_thumb <b>ᴜꜱᴇ ᴛʜɪꜱ ᴄᴏᴍᴍᴀɴᴅ ᴛᴏ ᴠɪᴇᴡ ʏᴏᴜʀ ᴄᴜʀʀᴇɴᴛ ᴛʜᴜᴍʙɴɪʟᴇ.</b>
 
 
 📑 <b><u>Hᴏᴡ Tᴏ Sᴇᴛ Cᴜꜱᴛᴏᴍ Cᴀᴩᴛɪᴏɴ</u></b>
 
 <b>•></b> /set_caption - <b>ᴜꜱᴇ ᴛʜɪꜱ ᴄᴏᴍᴍᴀɴᴅ ᴛᴏ sᴇᴛ ᴀ ᴄᴜꜱᴛᴏᴍ ᴄᴀᴩᴛɪᴏɴ</b>
-<b>•></b> /see_caption - ᴜꜱᴇ ᴛʜɪꜱ ᴄᴏᴍᴍᴀɴᴅ ᴛᴏ ᴠɪᴇᴡ ʏᴏᴜʀ ᴄᴜꜱᴛᴏᴍ ᴄᴀᴩᴛɪᴏɴ
-<b>•></b> /del_caption - ᴜꜱᴇ ᴛʜɪꜱ ᴄᴏᴍᴍᴀɴᴅ ᴛᴏ ᴅᴇʟᴇᴛᴇ ʏᴏᴜʀ ᴄᴜꜱᴛᴏᴍ ᴄᴀᴩᴛɪᴏɴ
-<b>Exᴀᴍᴩʟᴇ:-</b> <code> /set_caption 📕 ғɪʟᴇ ɴᴀᴍᴇ: {filename}
-💾 <b>sɪᴢᴇ:</b> {filesize}
-⏰ <b>ᴅᴜʀᴀᴛɪᴏɴ:</b> {duration} </code>
+<b>•></b> /see_caption - <b>ᴜꜱᴇ ᴛʜɪꜱ ᴄᴏᴍᴍᴀɴᴅ ᴛᴏ ᴠɪᴇᴡ ʏᴏᴜʀ ᴄᴜꜱᴛᴏᴍ ᴄᴀᴩᴛɪᴏɴ</b>
+<b>•></b> /del_caption - <b>ᴜꜱᴇ ᴛʜɪꜱ ᴄᴏᴍᴍᴀɴᴅ ᴛᴏ ᴅᴇʟᴇᴛᴇ ʏᴏᴜʀ ᴄᴜꜱᴛᴏᴍ ᴄᴀᴩᴛɪᴏɴ</b>
+<b>Exᴀᴍᴩʟᴇ:-</b> <code> /set_caption <b>📕 ғɪʟᴇ ɴᴀᴍᴇ:</b> {filename}
+<b>💾 sɪᴢᴇ:</b> {filesize}
+<b>⏰ ᴅᴜʀᴀᴛɪᴏɴ:</b> {duration} </code>
 
 ✏️ <b><u>Tᴏ Rᴇɴᴀᴍᴇ A Fɪʟᴇ</u></b>
-<b>•></b> Sᴇɴᴅ Aɴy Fɪʟᴇ Aɴᴅ Tyᴩᴇ Nᴇᴡ Fɪʟᴇ Nɴᴀᴍᴇ \nAɴᴅ Aᴇʟᴇᴄᴛ Tʜᴇ Fᴏʀᴍᴀᴛ [ document, video, audio ].           
+<b>•></b> <b>Sᴇɴᴅ Aɴy Fɪʟᴇ Aɴᴅ Tyᴩᴇ Nᴇᴡ Fɪʟᴇ Nɴᴀᴍᴇ \nAɴᴅ Aᴇʟᴇᴄᴛ Tʜᴇ Fᴏʀᴍᴀᴛ [ document, video, audio ].</b>           
 
 
-<b>➜ ᴘᴏᴡᴇʀᴇᴅ ʙʏ:</b> <a href=https://t.me/FleX_Bots_News>ғʟᴇX ʙᴏᴛs</a>
+<b>➜ ᴘᴏᴡᴇʀᴇᴅ ʙʏ:</b> <a href=https://t.me/FleX_Bots_News><b>ғʟᴇX ʙᴏᴛs</a></b>
 """
 
     SEND_METADATA = """
