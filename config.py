@@ -49,12 +49,12 @@ Tʜɪs Bᴏᴛ Aʟꜱᴏ Sᴜᴘᴘᴏʀᴛs Cᴜsᴛᴏᴍ Tʜᴜᴍʙɴᴀɪʟ
     ABOUT_TXT = """<b>╭───────────⍟
 • ᴍy ɴᴀᴍᴇ : {}
 • ᴘʀᴏɢʀᴀᴍᴇʀ : <a href=https://t.me/FLEXDUB_OFFICIAL>ғʟᴇx</a>
-• ɴᴇᴛᴡᴏʀᴋ : <a href=https://t.me/emxes_network>ᴇᴍxᴇs</a> 
-• ᴍᴏᴠɪᴇs : <a href=https://t.me/movieflix_original>ᴍᴏᴠɪᴇғʟɪx</a>
-• sᴇʀɪᴇs : <a href=https://t.me/seriesflix_original>sᴇʀɪᴇsғʟɪx</a>
+• ɴᴇᴛᴡᴏʀᴋ : <a href=https://t.me/emxes_network>ᴇᴍxᴇs ɴᴇᴛᴡᴏʀᴋ</a> 
+• 𝟸ɴᴅ ɴᴇᴛᴡᴏʀᴋ : <a href=https://t.me/KAMUI_NETWORK>ᴋᴀᴍᴜɪ ɴᴇᴛᴡᴏʀᴋ</a>
+• ᴏɴɢᴏɪɴɢ ᴀɴɪᴍᴇ : <a href=https://t.me/Ongoing_Anime_Barlow>ᴏɴɢᴏɪɴ ᴀɴɪᴍᴇ</a>
 • ᴀɴɪᴍᴇ: <a href=https://t.me/ANIME_BARLOW>ᴀɴɪᴍᴇ ʙᴀʀʟᴏᴡ</a>
 • ᴄʜᴀᴛ ɢʀᴏᴜᴘ: <a href=https://t.me/ANIME_IMMORTAL>ᴀɴɪᴍᴇ ᴄʜᴀᴛ ɢ</a>
-• ᴍʏ ꜱᴇʀᴠᴇʀ : <a href=https://codeflix_bots>ᴠᴘs</a>
+• ᴍʏ owner: <a href=https://t.me/FLEXDUB_official>FleX</a>
 ╰───────────────⍟ """
 
     HELP_TXT = """
@@ -88,7 +88,7 @@ Tʜɪs Bᴏᴛ Aʟꜱᴏ Sᴜᴘᴘᴏʀᴛs Cᴜsᴛᴏᴍ Tʜᴜᴍʙɴᴀɪʟ
 
 ◦ <code> -map 0 -c:s copy -c:a copy -c:v copy -metadata title="Powered By:- @team_netflix" -metadata author="@Codeflix_bots" -metadata:s:s title="Subtitled By :- @Team_netflix" -metadata:s:a title="By :- @team_netflix" -metadata:s:v title="By:- @Codeflix_bots" </code>
 
-📥 Fᴏʀ Hᴇʟᴘ Cᴏɴᴛ. @Codeflix_bots
+📥 Fᴏʀ Hᴇʟᴘ Cᴏɴᴛ. @FleX_Bots_News
 """
 
     PROGRESS_BAR = """<b>\n
