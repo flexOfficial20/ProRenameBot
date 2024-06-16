@@ -24,7 +24,7 @@ class Config(object):
     BOT_UPTIME = time.time()
     START_PIC = os.environ.get("START_PIC", "https://telegra.ph/file/56d52ef4d9d395f6e72ca.jpg")
     ADMIN = [int(admin) if id_pattern.search(
-        admin) else admin for admin in os.environ.get('ADMIN', '6584789596', '5702598840', '6154972031', '6154972031').split()]  # ⚠️ Required
+        admin) else admin for admin in os.environ.get('ADMIN', "6584789596", "5702598840", "6154972031").split()]  # ⚠️ Required
     
     FORCE_SUB = os.environ.get("FORCE_SUB", "FleX_Bots_News") # ⚠️ Required Username without @
     LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "-1002055707148"))  # ⚠️ Required
@@ -78,7 +78,7 @@ Tʜɪs Bᴏᴛ Aʟꜱᴏ Sᴜᴘᴘᴏʀᴛs Cᴜsᴛᴏᴍ Tʜᴜᴍʙɴᴀɪʟ
 <b>•></b> Sᴇɴᴅ Aɴy Fɪʟᴇ Aɴᴅ Tyᴩᴇ Nᴇᴡ Fɪʟᴇ Nɴᴀᴍᴇ \nAɴᴅ Aᴇʟᴇᴄᴛ Tʜᴇ Fᴏʀᴍᴀᴛ [ document, video, audio ].           
 
 
-<b>➜ ᴘᴏᴡᴇʀᴇᴅ ʙʏ:</b> <aFleX_Bots_News>ғʟᴇX ʙᴏᴛs</a>
+<b>➜ ᴘᴏᴡᴇʀᴇᴅ ʙʏ:</b> <a href=https://t.me/FleX_Bots_News>ғʟᴇX ʙᴏᴛs</a>
 """
 
     SEND_METADATA = """
