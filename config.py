@@ -7,14 +7,14 @@ id_pattern = re.compile(r'^.\d+$')
 
 class Config(object):
     # pyro client config
-    API_ID = os.environ.get("API_ID", "24089031")  # ⚠️ Required
-    API_HASH = os.environ.get("API_HASH", "0615e3afe13ddaaf8e9ddbd3977d35ff")  # ⚠️ Required
+    API_ID = os.environ.get("API_ID", "23770709")  # ⚠️ Required
+    API_HASH = os.environ.get("API_HASH", "b2cbf3daf7d014696b492be98d1d297a")  # ⚠️ Required
     BOT_TOKEN = os.environ.get("BOT_TOKEN", "6914920593:AAFmSY16QTaaszWAdo0YQXm64Tq_2G0FXXo")  # ⚠️ Required
 
     # premium 4g renaming client
-    STRING_API_ID = os.environ.get("STRING_API_ID", "6914920593")
-    STRING_API_HASH = os.environ.get("STRING_API_HASH", "6914920593:AAFmSY16QTaaszWAdo0YQXm64Tq_2G0FXXo")
-    STRING_SESSION = os.environ.get("STRING_SESSION", "BQFvkccAFLSR5WenJ4AKDD-Be1kafoLuxuULaCI19aLR2kDO0AuFXROab_OeTRd_b4BBh97i7SzEmqpSLe0ubDt-DHDq-lJCHWt4KMIgJrQmwRdKulYOZTb1uhQ-cUAaJgNyZSzVQRzTTSnzwa57gMSpIc2aYN5HObIxk9C5qor72133jNb7DzTSjYz-znJuc51EQiqfzh0KWcGeC5y5vLD45FR5e-vdbXHHeW1ogV32tnIWt9QIrr3f0zHd-NxYealn5tFSTsNWhi0dvH-AxDOVtyY1nz5teJG-oliReVBmA9Qhokr3tGYpGQ7UqWsHVPbBaFgJv4qxbFXeQZXNQxTLeccFXgAAAAGIe-pcAA")
+    STRING_API_ID = os.environ.get("STRING_API_ID", "23770709")
+    STRING_API_HASH = os.environ.get("STRING_API_HASH", "b2cbf3daf7d014696b492be98d1d297a")
+    STRING_SESSION = os.environ.get("STRING_SESSION", "BAFqtlUANf5VW2l1oYJ1VNtoWi3iAwaZeCtU5gZxf4F9huy-3cdH7m73EAo6vcw38bf9HIrlFrgwqKrWTkBMYW44u8h5vuccJ-7Opstcrti-GhpcIUrokvJyiNmQ8Foto842-NxaE9L4A5i6-j_hofgcktGnZVnNJgzNyE_BbWa5N7GN5awR0vSIKOIA0M5JxWfP9muc-0EflEZc21sms1AFMojYE9jSaPvMstNWhEgtKIHUXy-0dnwqC3cr65H5nLCrG_moU8fVzzGetIErGaRtx61v7g1ycpJdKxX2AAp4KN1PTvDcO5mC7NzoJG01pD-vAM5wOvPem7rXo8dy-1pDZB5zoAAAAAGmvIjjAA")
 
     # database config
     DB_NAME = os.environ.get("DB_NAME", "Cluster0")
